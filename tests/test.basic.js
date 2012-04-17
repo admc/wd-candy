@@ -1,4 +1,4 @@
-var wd = require("./lib/main")
+var wd = require("../lib/main")
 var go = require('chain-tiny');
 
 var b = wd.candy();
