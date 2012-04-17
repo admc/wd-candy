@@ -12,4 +12,8 @@
 , "engines" : ["node"]
 , "main" : "./lib/main"
 , "directories" : { "lib" : "./lib" }
+, "dependencies" : {
+    "wd" : "0.0.9",
+    "chain-tiny" : "0.2.1"
+  }
 }
